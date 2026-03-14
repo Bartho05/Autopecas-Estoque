@@ -9,6 +9,9 @@ Sistema de gerenciamento de estoque para lojas de peças automotivas.
 - Spring Data JPA
 - MySQL
 - Maven
+- HTML
+- Bootstrap
+- JavaScript
 
 ## Funcionalidades
 
